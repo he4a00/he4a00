@@ -19,7 +19,7 @@
     <a href="https://a-hashem-three.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portfolio" />
     </a>
-    <a href="https://linkedin.com/in/ahmedhashem" target="_blank">
+    <a href="https://www.linkedin.com/in/ahmed-hashem-8434b7269/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
     </a>
     <a href="mailto:a.hashem.shokry123@gmail.com">
